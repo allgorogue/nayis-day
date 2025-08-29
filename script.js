@@ -298,35 +298,35 @@ function startPhotoShow() {
     const photos = [
         {
             text: 'First Date langsung potobut 💕',
-            image: './images/photo1.jpg'
+            image: '.photo1.jpg'
         },
         {
             text: 'Lucu banget kayak bos gayanya (bos besar & bos kecil)',
-            image: './images/photo2.jpg'
+            image: '.photo2.jpg'
         },
         {
             text: 'Muncak ke daun sambil couple baju IMUT',
-            image: './images/photo3.jpg'
+            image: '.photo3.jpg'
         },
         {
             text: 'Macabiy, Nayi dan Gib-',
-            image: './images/photo4.jpg'
+            image: '.photo4.jpg'
         },
         {
             text: 'Baca dong tulisan ituuu',
-            image: './images/photo5.jpg'
+            image: '.photo5.jpg'
         },
         {
             text: 'Diajak romntis jawabnya cielah, sabaarr',
-            image: './images/photo6.jpg'
+            image: '.photo6.jpg'
         },
         {
             text: 'Mancing Dateee ☀️',
-            image: './images/photo7.jpg'
+            image: '.photo7.jpg'
         },
         {
             text: 'I Love You Adeyiii 💖',
-            image: './images/photo8.jpg'
+            image: '.photo8.jpg'
         }
     ];
     
@@ -1165,4 +1165,5 @@ function handleContinueNavigation() {
         default:
             showScreen('main');
     }
+
 }
